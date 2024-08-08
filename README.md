@@ -8,5 +8,3 @@
 - 📫 How to reach me: You can't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am funny
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMarlon2210-png&layout=compact&langs_count=10&hide=html,css)
